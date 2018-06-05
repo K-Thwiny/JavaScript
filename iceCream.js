@@ -1,6 +1,4 @@
 /*
- * Programming Quiz: Ice Cream (3-6)
- *
  * Write a single if statement that logs out the message:
  * 
  * "I'd like two scoops of __________ ice cream in a __________ with __________."
